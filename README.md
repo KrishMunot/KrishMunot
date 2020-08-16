@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### ✌🏽 Krish Munot ✨
+
+[🕸 https://krishmunot.com](https://krishmunot) ⇋ [🚀 What's Next](https://krishmunot/career) ⇋ [💬 twitter](https://twitter.com/krish_munot)
+
+[![GH stats 🔝📈](https://github-readme-stats.vercel.app/api?username=krishmunot&count_private=true&show_icons=true&theme=tokyonight&line_height=33&hide_rank=false)](https://github.com/krishmunot?tab=repositories&q=&type=public&language=)
+![Top Langs 💻](https://github-readme-stats.vercel.app/api/top-langs/?username=krishmunot&count_private=true&theme=onedark&line_height=30&hide=Java&layout=default)]
