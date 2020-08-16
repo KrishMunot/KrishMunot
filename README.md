@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello there 👋
 
 <!--
 **KrishMunot/KrishMunot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ✌🏽 Krish Munot ✨
+### ✌🏽 I'm Krish, a Product Enthusiast  ✨
 
-[🕸 https://krishmunot.com](https://krishmunot) ⇋ [🚀 What's Next](https://krishmunot/career) ⇋ [💬 twitter](https://twitter.com/krish_munot)
+[   🕸 krishmunot.com    ](https://krishmunot.com )    ⇋    [     🚀 What's Next     ](https://krishmunot.com/career)    ⇋    [   💬 Twitter   ](https://twitter.com/krish_munot)  ⇋    [   💼 Linkedin   ](https://www.linkedin.com/in/krishmunot/)   ⇋    [   🧠 Books   ](https://www.goodreads.com/krishmunot) 
 
 [![GH stats 🔝📈](https://github-readme-stats.vercel.app/api?username=krishmunot&count_private=true&show_icons=true&theme=tokyonight&line_height=33&hide_rank=false)](https://github.com/krishmunot?tab=repositories&q=&type=public&language=)
 ![Top Langs 💻](https://github-readme-stats.vercel.app/api/top-langs/?username=krishmunot&count_private=true&theme=onedark&line_height=30&hide=Java&layout=default)]
