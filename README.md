@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 ### ✌🏽 I'm Krish, a Product Enthusiast and love building things that make a difference  ✨
 
 [   🕸 krishmunot.com/about    ](https://krishmunot.com/about )    ⇋    [     🚀 What's Next     ](https://krishmunot.com/career)    ⇋    [   💬 Twitter   ](https://twitter.com/krish_munot)  ⇋    [   💼 Linkedin   ](https://www.linkedin.com/in/krishmunot/)   ⇋    [   🧠 Books   ](https://www.goodreads.com/krishmunot) 
- 
-[![GH stats 🔝📈](https://github-readme-stats.vercel.app/api?username=krishmunot&count_private=true&show_icons=true&theme=tokyonight&line_height=33&hide_rank=false)](https://github.com/krishmunot?tab=repositories&q=&type=public&language=)
-![Top Langs 💻](https://github-readme-stats.vercel.app/api/top-langs/?username=krishmunot&count_private=true&theme=onedark&line_height=30&hide=Java&layout=default)]
